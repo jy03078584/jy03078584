@@ -1,6 +1,6 @@
 ### Hi Coder
 
-#### 👨 Think More 💻 Do More
+####  :ghost: let code that others understand, :high_brightness: let code that you understand
 [![Java](https://img.shields.io/badge/-java-red?style=flat&logo=Java&logoColor=white)](https://github.com/jy03078584)
 [![Github](https://img.shields.io/badge/-github-black?style=flat&logo=github&logoColor=white)](https://github.com/jy03078584)
 [![Python](https://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=white)](https://github.com/jy03078584)
